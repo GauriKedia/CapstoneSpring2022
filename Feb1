@@ -1,0 +1,8 @@
+This past week I focussed on getting started with the Oculus from the IM lab. It's helping me figure out what my own game mechanics could be. I’m trying to make a list of interactions I would like to have in my project- while keeping in mind their feasibility.
+My main concern right now is creating a skeleton environment and seeing what it looks like in the VR space.
+I'm also trying to sort out the visual aesthetic of my project so I've been experimenting with Unity shader graphs to find the right look. 
+I was thinking of making things somewhere in between a cartoonish and a hand painted feel- which unfortunately is not the easiest to manage on Unity shader graphs. 
+At the cost of sounding too technical, Unity unlit graphs (which is what one would use for the kind of texture I’m going for) do not cast shadows or respond to light. So to do that was a bit of a process but I think I sorted it out. This type of texture is applicable to a lot of elements in the environment such as trees or clouds or even rocks with minor changes so I think this is good progress. 
+I’m excited that I’m at least kind of on the track to determine the visuals of the project but there’s still a very long way to go. I’m hoping that continuing with smaller tasks like these will help determine others like mechanics and interactions. 
+Hopefully I can get enough of these smaller aspects to put into the VR space and get started on the environment properly.
+
