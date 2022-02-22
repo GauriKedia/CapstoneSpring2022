@@ -1,0 +1,19 @@
+Updates on progress:
+Sorted out the cartoonish look of the trees- they respond to light and cast shadows while also looking sort of like Studio Ghibli trees (https://i.pinimg.com/originals/94/d0/c6/94d0c616e465b3d7afa9d5f3619e9be0.png)
+Figured out sun sources- I have two ‘suns’ working on two different time cycles with different coloured lights that affect objects in the scene differently. So it’s ot exactly a day/night cycle, I just prefer to call it a time cycle. Might randomise the time periods so it’s more unpredictable.
+Got the fish flocking algorithm to work- yay.
+Working on making water in the terrain- with depth, colour, ripples, foam, etc. 
+Sorting out Build settings so I can get it onto the Oculus. 
+Working on textures for the rest of the environment using Adobe Substance Painter and Designer. 
+Working on something called edge detection to make things look more like graphic novel drawings- this might be triggered by an interaction to distort perception. 
+Doing research on Unity Post-Production to sort out distorted perception options. 
+Working on my assets for the environment.
+Found code for changing player scale in game so hopefully can try it out soon.
+
+Plan for user testing:
+Have some kind of environment (as much detail as possible)
+Trees, water, fish (maybe a couple of more things) 
+Time cycle
+One interaction at least- scale, maybe, or distortion
+Navigation: walking/portal? Combination? Will figure out ASAP
+I need to sort out game logic: If my purpose is to subvert from the idea of productivity, my plan is to make discovering the new interactions seem like an upgrade or reward but with nothing to use it on; like okay, I can get bigger/smaller and stuff looks cool now but I’m not getting any points for it, or doing anything “new”. It’s the same environment, same everything, I can just do something new/(and hopefully cool)  in it. Lateral discovery, not forward progress. 
